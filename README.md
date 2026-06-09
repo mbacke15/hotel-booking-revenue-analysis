@@ -4,7 +4,11 @@ Analyse tarifaire et pilotage de la performance, dataset hôtelier 119K réserva
 # Hotel Booking Revenue Analysis
 
 Pricing analysis and commercial performance tracking  
-on a hotel booking dataset of 119,000 reservations.
+on a hotel booking dataset of 119390 reservations.
+
+
+ Raw dataset: 119,390 reservations, 32 columns
+- Clean dataset: 113,380 reservations after removing negative ADR and outliers
 
 ## Objectives
 
