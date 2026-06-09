@@ -10,13 +10,13 @@ on a hotel booking dataset of 119,000 reservations.
 
 - Analyze seasonality and booking trends
 - Measure price sensitivity by customer segment
-- Calculate key indicators: ADR, RevPAR, occupancy rate
+- Calculate key indicators: ADR(Average Daily Rate), RevPAR(Revenue Per Available Room), occupancy rate
 - Build a performance monitoring dashboard
 
 ## Tools
 
 - Python (pandas, matplotlib, seaborn)
-- Excel (pivot tables)
+- Excel 
 - Power BI (interactive dashboard)
 
 ## Data Source
